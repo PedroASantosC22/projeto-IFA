@@ -264,14 +264,14 @@ function trocarImagem(escolha) {
           urlNova = 'cordosol.jfif';
           textoprincipal.innerText="As 12 constelações zodiacais ";
           texto.innerText="O zodíaco é tradicionalmente dividido em 12 signos e constelações principais: Áries, Touro, Gêmeos, Câncer, Leão, Virgem, Libra, Escorpião, Sagitário, Capricórnio, Aquário e Peixes. Elas estão localizadas próximas à eclíptica, a região do céu que acompanha o caminho aparente do Sol durante o ano.";
-          descrevefigura.innerText="Imagem do Sol na cor branca ";
+          descrevefigura.innerText="Imagem sobre as 12 constelações Zodiacais ";
           break;
         case "3":
           urlNova = 'cordosol.jfif';
           textoprincipal.innerText="Origem e mitologia ";
           texto.innerText="Muitas das constelações zodiacais estão relacionadas à mitologia da Grécia Antiga. Os povos antigos observavam o céu e criavam histórias para explicar os desenhos formados pelas estrelas. Por exemplo, Órion está relacionado a um caçador da mitologia grega, enquanto Leão é associado ao Leão de Neméia, derrotado por Hércules.
 Essas histórias ajudavam os povos antigos a identificar e memorizar as constelações no céu.";
-          descrevefigura.innerText="Imagem do Sol na cor branca ";
+          descrevefigura.innerText="Imagem sobre a origem mitológica ";
           break;
         case "4":
           urlNova = 'cordosol.jfif';
@@ -279,7 +279,7 @@ Essas histórias ajudavam os povos antigos a identificar e memorizar as constela
           texto.innerText="Embora estejam relacionadas historicamente, astronomia e astrologia são coisas diferentes. A astronomia é uma ciência que estuda os corpos celestes, como estrelas, planetas e galáxias. Já a astrologia é uma prática que relaciona a posição dos astros com características da personalidade e acontecimentos da vida das pessoas.
 As constelações zodiacais são objetos de estudo da astronomia, enquanto os signos do zodíaco pertencem ao sistema utilizado pela astrologia.
 ";
-          descrevefigura.innerText="Imagem do Sol na cor branca ";
+          descrevefigura.innerText="Imagem sobre Astronomia x Astrologia ";
           break;
         default:
           urlNova = 'acessibilidade.png';
