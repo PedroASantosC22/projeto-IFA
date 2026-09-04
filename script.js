@@ -269,16 +269,14 @@ function trocarImagem(escolha) {
         case "3":
           urlNova = 'horoscopo-info.jpg';
           textoprincipal.innerText="Origem e mitologia ";
-          texto.innerText="Muitas das constelações zodiacais estão relacionadas à mitologia da Grécia Antiga. Os povos antigos observavam o céu e criavam histórias para explicar os desenhos formados pelas estrelas. Por exemplo, Órion está relacionado a um caçador da mitologia grega, enquanto Leão é associado ao Leão de Neméia, derrotado por Hércules.
-Essas histórias ajudavam os povos antigos a identificar e memorizar as constelações no céu.";
+          texto.innerText="Muitas das constelações zodiacais estão relacionadas à mitologia da Grécia Antiga. Os povos antigos observavam o céu e criavam histórias para explicar os desenhos formados pelas estrelas. Por exemplo, Órion está relacionado a um caçador da mitologia grega, enquanto Leão é associado ao Leão de Neméia, derrotado por Hércules.Essas histórias ajudavam os povos antigos a identificar e memorizar as constelações no céu.";
           descrevefigura.innerText="Imagem sobre a origem mitológica ";
           break;
         case "4":
           urlNova = '22bdb620-2c31-427f-a835-586594081039.jpeg';
           textoprincipal.innerText=" Astronomia × Astrologia ";
-          texto.innerText="Embora estejam relacionadas historicamente, astronomia e astrologia são coisas diferentes. A astronomia é uma ciência que estuda os corpos celestes, como estrelas, planetas e galáxias. Já a astrologia é uma prática que relaciona a posição dos astros com características da personalidade e acontecimentos da vida das pessoas.
-As constelações zodiacais são objetos de estudo da astronomia, enquanto os signos do zodíaco pertencem ao sistema utilizado pela astrologia.
-";
+          texto.innerText="Embora estejam relacionadas historicamente, astronomia e astrologia são coisas diferentes. A astronomia é uma ciência que estuda os corpos celestes, como estrelas, planetas e galáxias. Já a astrologia é uma prática que relaciona a posição dos astros com características da personalidade e acontecimentos da vida das pessoas.As constelações zodiacais são objetos de estudo da astronomia, enquanto os signos do zodíaco pertencem ao sistema utilizado pela astrologia.";
+    
           descrevefigura.innerText="Imagem sobre Astronomia x Astrologia ";
           break;
         default:
