@@ -261,7 +261,7 @@ function trocarImagem(escolha) {
           descrevefigura.innerText="Imagem de Constelações Zodiacais";
           break;
         case "2":
-          urlNova = 'cordosol.jfif';
+          urlNova = 'constelacoes.webp';
           textoprincipal.innerText="As 12 constelações zodiacais ";
           texto.innerText="O zodíaco é tradicionalmente dividido em 12 signos e constelações principais: Áries, Touro, Gêmeos, Câncer, Leão, Virgem, Libra, Escorpião, Sagitário, Capricórnio, Aquário e Peixes. Elas estão localizadas próximas à eclíptica, a região do céu que acompanha o caminho aparente do Sol durante o ano.";
           descrevefigura.innerText="Imagem sobre as 12 constelações Zodiacais ";
